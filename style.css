@@ -7,6 +7,10 @@ body {
     margin: 0;
 }
 
+h2{
+    text-align: center;
+}
+
 #homeBody {
     background-image: url('https://www.aljazeera.com/wp-content/uploads/2022/05/AP22124019197982.jpg?resize=1170%2C780&quality=80');
     background-size: cover
